@@ -1,0 +1,9 @@
+<?xml version-"1.0" encoding="utf-8"?>
+<About_me>
+	<name>Dmitry</name>
+	<surname>Krylov</surname>
+	<middlename>Mikhailovich</middlename>
+	<age>30</age>
+	<pet>Chernysh</pet>
+	<estimatedsalary>700</estimatedsalary>
+</About_me>
