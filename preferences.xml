@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MyPreferences>
+	<FavFilms>
+		V - means Vendetta
+		Mulan
+		Knives out
+ </FavFilms>
+        <FavTVShow>
+	        Misfits
+	        Witcher
+	        Game of thrones
+ </FavTVShow>
+        <FavFood>
+		Borsch
+		Plov
+		Pizza
+	</FavFood>
+	<FavSeason>Summer</FavSeason>
+	<CountryForTravel>Japan</CountryForTravel>
+</MyPreferences>
