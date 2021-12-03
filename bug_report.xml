@@ -1,1 +1,22 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<BugReport>
+  <Date>12.04.2021</Date>
+  <Title>www.example.com orders duplicated after request second verification code for paying</Title>
+  <Status>New</Status>
+  <Priority>High</Priority>
+  <Severity>Major</Severity>
+  <Author>Dmitry Krylov</Author>
+  <Assigned_to>DeveloperID001</Assigned_to>
+  <Enviroment>Mozilla Firefox x64 94.0.2</Enviroment>
+  <Description>When you created order , and confirm paying if you request second verification code, your create second same order instead continue your first</Description>
+  <Step_to_reproduce>
+                       1)Login on site www.example.com
+                       2)Add anything in card
+                       3)Confirm order
+                       4)Request verification code
+                       5)Request verification code second time
+                      </Step_to_reproduce>
+  <Expected_Result>You receive second verification code, and after enter it you will finish your current order</Expected_Result>
+  <Actual_Result>You receive second verification code , and after enter it you will finish second same order, and first one will be unfinished, all codes and discount will dissappeared</Actual_Result>
+</BugReport>
+    
